@@ -12,11 +12,11 @@ During the course a practical team project will be developed that includes pract
 
 The course is part of the overall program with C # courses and tutorials for the "C # programmer" training at the University of Software.
 
-SKILLS WHICH YOU WILL ACQUIRE
- - Design of a database design </br>
- - Using approaches to create Code First and Database First </br>
- - Working with a database using ORM work frames </br>
- - Working with different data formats - XML, JSON </br>
+SKILLS WHICH YOU WILL ACQUIRE </br>
+- Design of a database design </br>
+- Using approaches to create Code First and Database First </br>
+- Working with a database using ORM work frames </br>
+- Working with different data formats - XML, JSON </br>
  
 1. RESOURCES
 2. COURSE INTRODUCTION
