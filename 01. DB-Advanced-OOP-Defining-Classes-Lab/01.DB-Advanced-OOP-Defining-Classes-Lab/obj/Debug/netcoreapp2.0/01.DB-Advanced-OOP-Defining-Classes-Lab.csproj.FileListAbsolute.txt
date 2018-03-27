@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\obj\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\obj\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\obj\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\obj\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\bin\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.deps.json
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\bin\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.runtimeconfig.json
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\bin\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\bin\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.dll
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\bin\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.pdb
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\obj\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.dll
+C:\Users\Daisy\source\repos\01.DB-Advanced-OOP-Defining-Classes-Lab\01.DB-Advanced-OOP-Defining-Classes-Lab\obj\Debug\netcoreapp2.0\01.DB-Advanced-OOP-Defining-Classes-Lab.pdb
