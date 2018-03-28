@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person.pdb

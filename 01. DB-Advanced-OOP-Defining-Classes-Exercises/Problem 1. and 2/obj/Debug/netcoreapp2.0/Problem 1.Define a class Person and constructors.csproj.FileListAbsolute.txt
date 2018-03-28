@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\01. DB-Advanced-OOP-Defining-Classes-Exercises\obj\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.pdb

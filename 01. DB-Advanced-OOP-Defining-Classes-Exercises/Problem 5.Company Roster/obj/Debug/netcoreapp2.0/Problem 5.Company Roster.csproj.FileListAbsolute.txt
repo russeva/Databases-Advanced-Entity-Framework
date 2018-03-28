@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\bin\Debug\netcoreapp2.0\Problem 5.Company Roster.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\bin\Debug\netcoreapp2.0\Problem 5.Company Roster.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\bin\Debug\netcoreapp2.0\Problem 5.Company Roster.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\bin\Debug\netcoreapp2.0\Problem 5.Company Roster.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\bin\Debug\netcoreapp2.0\Problem 5.Company Roster.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\obj\Debug\netcoreapp2.0\Problem 5.Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\obj\Debug\netcoreapp2.0\Problem 5.Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\obj\Debug\netcoreapp2.0\Problem 5.Company Roster.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\obj\Debug\netcoreapp2.0\Problem 5.Company Roster.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\obj\Debug\netcoreapp2.0\Problem 5.Company Roster.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 5.Company Roster\obj\Debug\netcoreapp2.0\Problem 5.Company Roster.pdb

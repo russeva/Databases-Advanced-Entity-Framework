@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Problem 3.Opinion Poll/1.0.0": {
+        "runtime": {
+          "Problem 3.Opinion Poll.dll": {}
+        }
+      },
+      "Problem 1.Define a class Person and constructors/1.0.0": {
+        "runtime": {
+          "Problem 1.Define a class Person and constructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 3.Opinion Poll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem 1.Define a class Person and constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

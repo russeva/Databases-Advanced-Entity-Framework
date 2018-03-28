@@ -1,0 +1,13 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\obj\Debug\netcoreapp2.0\Problem 3.Opinion Poll.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\obj\Debug\netcoreapp2.0\Problem 3.Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\obj\Debug\netcoreapp2.0\Problem 3.Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\obj\Debug\netcoreapp2.0\Problem 3.Opinion Poll.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 3.Opinion Poll.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 3.Opinion Poll.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 3.Opinion Poll.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 3.Opinion Poll.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 3.Opinion Poll.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\bin\Debug\netcoreapp2.0\Problem 1.Define a class Person and constructors.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\obj\Debug\netcoreapp2.0\Problem 3.Opinion Poll.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 3.Opinion Poll\obj\Debug\netcoreapp2.0\Problem 3.Opinion Poll.pdb

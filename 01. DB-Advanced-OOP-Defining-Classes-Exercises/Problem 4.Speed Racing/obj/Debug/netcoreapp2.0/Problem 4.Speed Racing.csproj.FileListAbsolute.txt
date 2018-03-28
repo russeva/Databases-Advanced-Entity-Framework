@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\bin\Debug\netcoreapp2.0\Problem 4.Speed Racing.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\bin\Debug\netcoreapp2.0\Problem 4.Speed Racing.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\bin\Debug\netcoreapp2.0\Problem 4.Speed Racing.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\bin\Debug\netcoreapp2.0\Problem 4.Speed Racing.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\bin\Debug\netcoreapp2.0\Problem 4.Speed Racing.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\obj\Debug\netcoreapp2.0\Problem 4.Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\obj\Debug\netcoreapp2.0\Problem 4.Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\obj\Debug\netcoreapp2.0\Problem 4.Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\obj\Debug\netcoreapp2.0\Problem 4.Speed Racing.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\obj\Debug\netcoreapp2.0\Problem 4.Speed Racing.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 4.Speed Racing\obj\Debug\netcoreapp2.0\Problem 4.Speed Racing.pdb
