@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. and 2.Define a class Person and constructors", "01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 1. and 2.Define a class Person and constructors.csproj", "{3EC7F506-8A0B-4E6A-864E-CE44941D0BFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. and 2.", "01. DB-Advanced-OOP-Defining-Classes-Exercises\Problem 1. and 2.csproj", "{3EC7F506-8A0B-4E6A-864E-CE44941D0BFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3.Opinion Poll", "Problem 3.Opinion Poll\Problem 3.Opinion Poll.csproj", "{849564E4-8C2F-4DC1-88FC-2F9E05223FE0}"
 EndProject
