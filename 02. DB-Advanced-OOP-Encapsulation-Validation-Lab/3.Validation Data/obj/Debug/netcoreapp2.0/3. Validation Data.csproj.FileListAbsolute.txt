@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\bin\Debug\netcoreapp2.0\3. Validation Data.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\bin\Debug\netcoreapp2.0\3. Validation Data.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\bin\Debug\netcoreapp2.0\3. Validation Data.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\bin\Debug\netcoreapp2.0\3. Validation Data.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\bin\Debug\netcoreapp2.0\3. Validation Data.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\obj\Debug\netcoreapp2.0\3. Validation Data.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\obj\Debug\netcoreapp2.0\3. Validation Data.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\obj\Debug\netcoreapp2.0\3. Validation Data.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\obj\Debug\netcoreapp2.0\3. Validation Data.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\obj\Debug\netcoreapp2.0\3. Validation Data.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\3.Validation Data\obj\Debug\netcoreapp2.0\3. Validation Data.pdb

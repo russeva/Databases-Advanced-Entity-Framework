@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\bin\Debug\netcoreapp2.0\2. Salary Increase.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\bin\Debug\netcoreapp2.0\2. Salary Increase.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\bin\Debug\netcoreapp2.0\2. Salary Increase.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\bin\Debug\netcoreapp2.0\2. Salary Increase.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\bin\Debug\netcoreapp2.0\2. Salary Increase.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\obj\Debug\netcoreapp2.0\2. Salary Increase.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\obj\Debug\netcoreapp2.0\2. Salary Increase.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\obj\Debug\netcoreapp2.0\2. Salary Increase.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\obj\Debug\netcoreapp2.0\2. Salary Increase.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\obj\Debug\netcoreapp2.0\2. Salary Increase.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\2.Salary Increase\obj\Debug\netcoreapp2.0\2. Salary Increase.pdb

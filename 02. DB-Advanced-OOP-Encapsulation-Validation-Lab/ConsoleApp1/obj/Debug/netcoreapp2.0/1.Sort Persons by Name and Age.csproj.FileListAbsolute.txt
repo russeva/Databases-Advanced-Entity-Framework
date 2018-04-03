@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.deps.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.runtimeconfig.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.pdb
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.dll
+C:\Users\Daisy\source\repos\01. DB-Advanced-OOP-Encapsulation-Validation-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\1.Sort Persons by Name and Age.pdb
