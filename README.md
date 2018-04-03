@@ -21,7 +21,7 @@ SKILLS WHICH YOU WILL ACQUIRE </br>
 1. RESOURCES
 2. COURSE INTRODUCTION
 3. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/01.%20DB-Advanced-OOP-Defining-Classes-Exercises">DEFINING CLASSES</a>
-4. ENCAPSULATION AND VALIDATION
+4.<a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/02.%20DB-Advanced-OOP-Encapsulation-Validation-Lab"> ENCAPSULATION AND VALIDATION</a>
 5. INHERITANCE AND GENERICS
 6. C# OOP INTRO EXERCISE
 7. DB APPS INTRODUCTION
