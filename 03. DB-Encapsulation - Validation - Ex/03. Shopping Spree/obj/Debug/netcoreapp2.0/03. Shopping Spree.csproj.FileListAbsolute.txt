@@ -1,0 +1,11 @@
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\bin\Debug\netcoreapp2.0\03. Shopping Spree.deps.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\bin\Debug\netcoreapp2.0\03. Shopping Spree.runtimeconfig.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\bin\Debug\netcoreapp2.0\03. Shopping Spree.runtimeconfig.dev.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\bin\Debug\netcoreapp2.0\03. Shopping Spree.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\bin\Debug\netcoreapp2.0\03. Shopping Spree.pdb
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\obj\Debug\netcoreapp2.0\03. Shopping Spree.csproj.CoreCompileInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\obj\Debug\netcoreapp2.0\03. Shopping Spree.AssemblyInfoInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\obj\Debug\netcoreapp2.0\03. Shopping Spree.AssemblyInfo.cs
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\obj\Debug\netcoreapp2.0\03. Shopping Spree.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\obj\Debug\netcoreapp2.0\03. Shopping Spree.pdb
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. Shopping Spree\obj\Debug\netcoreapp2.0\03. Shopping Spree.csprojResolveAssemblyReference.cache

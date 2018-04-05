@@ -1,0 +1,11 @@
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\obj\Debug\netcoreapp2.0\04. Pizza Calories.csprojResolveAssemblyReference.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\obj\Debug\netcoreapp2.0\04. Pizza Calories.csproj.CoreCompileInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\obj\Debug\netcoreapp2.0\04. Pizza Calories.AssemblyInfoInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\obj\Debug\netcoreapp2.0\04. Pizza Calories.AssemblyInfo.cs
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\bin\Debug\netcoreapp2.0\04. Pizza Calories.deps.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\bin\Debug\netcoreapp2.0\04. Pizza Calories.runtimeconfig.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\bin\Debug\netcoreapp2.0\04. Pizza Calories.runtimeconfig.dev.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\bin\Debug\netcoreapp2.0\04. Pizza Calories.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\bin\Debug\netcoreapp2.0\04. Pizza Calories.pdb
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\obj\Debug\netcoreapp2.0\04. Pizza Calories.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\04. Pizza Calories\obj\Debug\netcoreapp2.0\04. Pizza Calories.pdb

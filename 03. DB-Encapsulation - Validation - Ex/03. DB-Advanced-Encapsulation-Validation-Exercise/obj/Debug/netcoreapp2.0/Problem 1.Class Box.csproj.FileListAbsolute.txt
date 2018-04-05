@@ -1,0 +1,11 @@
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\bin\Debug\netcoreapp2.0\Problem 1.Class Box.deps.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\bin\Debug\netcoreapp2.0\Problem 1.Class Box.runtimeconfig.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\bin\Debug\netcoreapp2.0\Problem 1.Class Box.runtimeconfig.dev.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\bin\Debug\netcoreapp2.0\Problem 1.Class Box.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\bin\Debug\netcoreapp2.0\Problem 1.Class Box.pdb
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\obj\Debug\netcoreapp2.0\Problem 1.Class Box.csprojResolveAssemblyReference.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\obj\Debug\netcoreapp2.0\Problem 1.Class Box.csproj.CoreCompileInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\obj\Debug\netcoreapp2.0\Problem 1.Class Box.AssemblyInfoInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\obj\Debug\netcoreapp2.0\Problem 1.Class Box.AssemblyInfo.cs
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\obj\Debug\netcoreapp2.0\Problem 1.Class Box.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\03. DB-Advanced-Encapsulation-Validation-Exercise\obj\Debug\netcoreapp2.0\Problem 1.Class Box.pdb

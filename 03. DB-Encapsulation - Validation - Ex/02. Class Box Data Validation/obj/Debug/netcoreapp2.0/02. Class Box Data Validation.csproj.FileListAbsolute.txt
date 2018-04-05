@@ -1,0 +1,11 @@
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.deps.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.runtimeconfig.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.runtimeconfig.dev.json
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.pdb
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.csprojResolveAssemblyReference.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.csproj.CoreCompileInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.AssemblyInfoInputs.cache
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.AssemblyInfo.cs
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.dll
+c:\users\daisy\source\repos\03. DB-Advanced-Encapsulation-Validation-Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.pdb
