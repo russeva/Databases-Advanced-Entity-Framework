@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\bin\Debug\netcoreapp2.0\2.Multiple Inheritance.deps.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\bin\Debug\netcoreapp2.0\2.Multiple Inheritance.runtimeconfig.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\bin\Debug\netcoreapp2.0\2.Multiple Inheritance.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\bin\Debug\netcoreapp2.0\2.Multiple Inheritance.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\bin\Debug\netcoreapp2.0\2.Multiple Inheritance.pdb
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\obj\Debug\netcoreapp2.0\2.Multiple Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\obj\Debug\netcoreapp2.0\2.Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\obj\Debug\netcoreapp2.0\2.Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\obj\Debug\netcoreapp2.0\2.Multiple Inheritance.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\obj\Debug\netcoreapp2.0\2.Multiple Inheritance.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\2.Multiple Inheritance\obj\Debug\netcoreapp2.0\2.Multiple Inheritance.pdb

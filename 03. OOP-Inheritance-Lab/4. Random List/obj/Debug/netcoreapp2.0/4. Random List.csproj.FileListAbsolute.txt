@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\bin\Debug\netcoreapp2.0\4. Random List.deps.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\bin\Debug\netcoreapp2.0\4. Random List.runtimeconfig.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\bin\Debug\netcoreapp2.0\4. Random List.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\bin\Debug\netcoreapp2.0\4. Random List.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\bin\Debug\netcoreapp2.0\4. Random List.pdb
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\obj\Debug\netcoreapp2.0\4. Random List.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\obj\Debug\netcoreapp2.0\4. Random List.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\obj\Debug\netcoreapp2.0\4. Random List.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\obj\Debug\netcoreapp2.0\4. Random List.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\obj\Debug\netcoreapp2.0\4. Random List.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\4. Random List\obj\Debug\netcoreapp2.0\4. Random List.pdb

@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\bin\Debug\netcoreapp2.0\1. Single Inheritance.deps.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\bin\Debug\netcoreapp2.0\1. Single Inheritance.runtimeconfig.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\bin\Debug\netcoreapp2.0\1. Single Inheritance.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\bin\Debug\netcoreapp2.0\1. Single Inheritance.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\bin\Debug\netcoreapp2.0\1. Single Inheritance.pdb
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\obj\Debug\netcoreapp2.0\1. Single Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\obj\Debug\netcoreapp2.0\1. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\obj\Debug\netcoreapp2.0\1. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\obj\Debug\netcoreapp2.0\1. Single Inheritance.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\obj\Debug\netcoreapp2.0\1. Single Inheritance.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\03. Inheritance - Lab\obj\Debug\netcoreapp2.0\1. Single Inheritance.pdb

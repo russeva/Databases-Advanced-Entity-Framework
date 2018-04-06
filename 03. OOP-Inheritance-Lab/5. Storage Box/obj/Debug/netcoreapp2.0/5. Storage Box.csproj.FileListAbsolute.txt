@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\bin\Debug\netcoreapp2.0\5. Storage Box.deps.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\bin\Debug\netcoreapp2.0\5. Storage Box.runtimeconfig.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\bin\Debug\netcoreapp2.0\5. Storage Box.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\bin\Debug\netcoreapp2.0\5. Storage Box.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\bin\Debug\netcoreapp2.0\5. Storage Box.pdb
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\obj\Debug\netcoreapp2.0\5. Storage Box.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\obj\Debug\netcoreapp2.0\5. Storage Box.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\obj\Debug\netcoreapp2.0\5. Storage Box.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\obj\Debug\netcoreapp2.0\5. Storage Box.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\obj\Debug\netcoreapp2.0\5. Storage Box.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Lab\5. Storage Box\obj\Debug\netcoreapp2.0\5. Storage Box.pdb
