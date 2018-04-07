@@ -25,6 +25,7 @@ SKILLS WHICH YOU WILL ACQUIRE </br>
 4. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/02.%20DB-Advanced-OOP-Encapsulation-Validation-Lab"> ENCAPSULATION AND VALIDATION - LAB</a></br>
 4.1. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/03.%20Encapsulation%20-%20Validation%20-%20Exercise"> ENCAPSULATION AND VALIDATION - EXERCISE</a></br>
 5. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/03.%20OOP-Inheritance-Lab">INHERITANCE AND GENERICS - LAB</a></br>
+5.1. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/03.%20Inheritance%20-%20Exercise"> INHERITANCE AND GENERICS - EXERCISE </a></br>
 6. C# OOP INTRO EXERCISE
 7. DB APPS INTRODUCTION
 8. EXERCISE: FETCHING RESULTSETS WITH ADO.NET
