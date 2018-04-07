@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.deps.json
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.runtimeconfig.json
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.pdb
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.dll
+C:\Users\Daisy\source\repos\03. Inheritance - Exercise\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.pdb
