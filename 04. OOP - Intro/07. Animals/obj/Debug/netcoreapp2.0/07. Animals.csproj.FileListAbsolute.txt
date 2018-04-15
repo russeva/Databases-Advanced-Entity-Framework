@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\bin\Debug\netcoreapp2.0\07. Animals.deps.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\bin\Debug\netcoreapp2.0\07. Animals.runtimeconfig.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\bin\Debug\netcoreapp2.0\07. Animals.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\bin\Debug\netcoreapp2.0\07. Animals.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\bin\Debug\netcoreapp2.0\07. Animals.pdb
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\obj\Debug\netcoreapp2.0\07. Animals.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\obj\Debug\netcoreapp2.0\07. Animals.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\obj\Debug\netcoreapp2.0\07. Animals.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\obj\Debug\netcoreapp2.0\07. Animals.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\obj\Debug\netcoreapp2.0\07. Animals.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\07. Animals\obj\Debug\netcoreapp2.0\07. Animals.pdb

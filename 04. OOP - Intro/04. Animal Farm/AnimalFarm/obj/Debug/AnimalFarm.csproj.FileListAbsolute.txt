@@ -1,0 +1,7 @@
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Daisy\Desktop\C# DB Advanced - Entity Framework\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb

@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\bin\Debug\netcoreapp2.0\01. Oldest Family Member.deps.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\bin\Debug\netcoreapp2.0\01. Oldest Family Member.runtimeconfig.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\bin\Debug\netcoreapp2.0\01. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\bin\Debug\netcoreapp2.0\01. Oldest Family Member.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\bin\Debug\netcoreapp2.0\01. Oldest Family Member.pdb
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\obj\Debug\netcoreapp2.0\01. Oldest Family Member.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\obj\Debug\netcoreapp2.0\01. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\obj\Debug\netcoreapp2.0\01. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\obj\Debug\netcoreapp2.0\01. Oldest Family Member.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\obj\Debug\netcoreapp2.0\01. Oldest Family Member.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\01. Oldest Family Member\obj\Debug\netcoreapp2.0\01. Oldest Family Member.pdb

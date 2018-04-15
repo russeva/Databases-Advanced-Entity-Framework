@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\bin\Debug\netcoreapp2.0\02. Date Modifier.deps.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\bin\Debug\netcoreapp2.0\02. Date Modifier.runtimeconfig.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\bin\Debug\netcoreapp2.0\02. Date Modifier.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\bin\Debug\netcoreapp2.0\02. Date Modifier.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\bin\Debug\netcoreapp2.0\02. Date Modifier.pdb
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\obj\Debug\netcoreapp2.0\02. Date Modifier.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\obj\Debug\netcoreapp2.0\02. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\obj\Debug\netcoreapp2.0\02. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\obj\Debug\netcoreapp2.0\02. Date Modifier.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\obj\Debug\netcoreapp2.0\02. Date Modifier.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\02. Date Modifier\obj\Debug\netcoreapp2.0\02. Date Modifier.pdb

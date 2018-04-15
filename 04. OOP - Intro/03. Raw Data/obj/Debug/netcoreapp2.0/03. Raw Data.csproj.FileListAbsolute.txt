@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\bin\Debug\netcoreapp2.0\03. Raw Data.deps.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\bin\Debug\netcoreapp2.0\03. Raw Data.runtimeconfig.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\bin\Debug\netcoreapp2.0\03. Raw Data.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\bin\Debug\netcoreapp2.0\03. Raw Data.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\bin\Debug\netcoreapp2.0\03. Raw Data.pdb
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\obj\Debug\netcoreapp2.0\03. Raw Data.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\obj\Debug\netcoreapp2.0\03. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\obj\Debug\netcoreapp2.0\03. Raw Data.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\obj\Debug\netcoreapp2.0\03. Raw Data.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\obj\Debug\netcoreapp2.0\03. Raw Data.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\03. Raw Data\obj\Debug\netcoreapp2.0\03. Raw Data.pdb

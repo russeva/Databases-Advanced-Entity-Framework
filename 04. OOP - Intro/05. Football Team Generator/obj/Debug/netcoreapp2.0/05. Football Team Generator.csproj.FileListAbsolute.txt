@@ -1,0 +1,11 @@
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\bin\Debug\netcoreapp2.0\05. Football Team Generator.deps.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\bin\Debug\netcoreapp2.0\05. Football Team Generator.runtimeconfig.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\bin\Debug\netcoreapp2.0\05. Football Team Generator.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\bin\Debug\netcoreapp2.0\05. Football Team Generator.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\bin\Debug\netcoreapp2.0\05. Football Team Generator.pdb
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\obj\Debug\netcoreapp2.0\05. Football Team Generator.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\obj\Debug\netcoreapp2.0\05. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\obj\Debug\netcoreapp2.0\05. Football Team Generator.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\obj\Debug\netcoreapp2.0\05. Football Team Generator.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\obj\Debug\netcoreapp2.0\05. Football Team Generator.dll
+C:\Users\Daisy\source\repos\04. OOP - Introduction\05. Football Team Generator\obj\Debug\netcoreapp2.0\05. Football Team Generator.pdb
