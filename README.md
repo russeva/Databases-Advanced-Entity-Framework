@@ -34,7 +34,7 @@ SKILLS WHICH YOU WILL ACQUIRE </br>
 11. CODE-FIRST
 12. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/06.%20EF%20-%20CodeFirst%20-%20Exercise"> EXERCISE: CODE-FIRST </a></br>
 13. ENTITY RELATIONS
-14. EXERCISE: ENTITY RELATIONS
+14. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/07.%20EF%20-%20Relations%20-%20Exercise"> EXERCISE: ENTITY RELATIONS </a></br>
 15. ADVANCED RELATIONS AND AGGREGATION
 16. EXERCISE: ADVANCED RELATIONS
 17. ADVANCED QUERYING
