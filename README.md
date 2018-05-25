@@ -36,7 +36,7 @@ SKILLS WHICH YOU WILL ACQUIRE </br>
 13. ENTITY RELATIONS
 14. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/07.%20EF%20-%20Relations%20-%20Exercise"> EXERCISE: ENTITY RELATIONS </a></br>
 15. ADVANCED RELATIONS AND AGGREGATION
-16. EXERCISE: ADVANCED RELATIONS
+16. <a href="https://github.com/russeva/Databases-Advanced-Entity-Framework/tree/master/07.%20EF%20-%20Relations%20-%20Exercise/02.%20BettingSystem"> EXERCISE: ADVANCED RELATIONS </a></br>
 17. ADVANCED QUERYING
 18. EXERCISE: ADVANCED QUERYING
 19. BEST PRACTICES AND ARCHITECTURE
