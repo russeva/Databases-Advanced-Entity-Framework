@@ -6,11 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\BookShopSys.Data.Initializer\BookShopSys.Data.Initializer.csproj" />
     <ProjectReference Include="..\BookShopSys.Data.Models\BookShopSys.Data.Models.csproj" />
     <ProjectReference Include="..\BookShopSys.Data\BookShopSys.Data.csproj" />
