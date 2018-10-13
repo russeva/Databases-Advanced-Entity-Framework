@@ -1,0 +1,16 @@
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.App.deps.json
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.App.runtimeconfig.json
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.App.runtimeconfig.dev.json
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.App.dll
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.csprojAssemblyReference.cache
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.csproj.CoreCompileInputs.cache
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.AssemblyInfoInputs.cache
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.AssemblyInfo.cs
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.App.pdb
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.dll
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.pdb
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.Data.dll
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.Models.dll
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.Data.pdb
+C:\Users\DR\source\repos\ShopDb\Shop.App\bin\Debug\netcoreapp2.1\Shop.Models.pdb
+C:\Users\DR\source\repos\ShopDb\Shop.App\obj\Debug\netcoreapp2.1\Shop.App.csproj.CopyComplete

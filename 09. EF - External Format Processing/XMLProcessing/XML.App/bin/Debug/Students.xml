@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <student>
+    <Id>1</Id>
+    <name>Timur</name>
+    <gender>Male</gender>
+    <phoneNumber>075934444</phoneNumber>
+    <email>racoon@forest.gump</email>
+    <university>SoftUni</university>
+    <speciality>Java Development</speciality>
+    <facultyNumber>4583202035</facultyNumber>
+    <Exams>
+      <exams>
+        <name>Java Web Development</name>
+        <dateTaken>2018-07-14T00:00:00</dateTaken>
+        <grade>5</grade>
+      </exams>
+      <exams>
+        <name>Java DB Development</name>
+        <dateTaken>2018-05-31T00:00:00</dateTaken>
+        <grade>6</grade>
+      </exams>
+    </Exams>
+  </student>
+  <student>
+    <Id>1</Id>
+    <name>Daisy</name>
+    <gender>Gender</gender>
+    <phoneNumber>0347756</phoneNumber>
+    <email>blablah@dracula.ro</email>
+    <university>SoftUni</university>
+    <speciality>C# Development</speciality>
+    <facultyNumber>670038434</facultyNumber>
+    <Exams>
+      <exams>
+        <name>C# Web Development</name>
+        <dateTaken>2018-07-14T00:00:00</dateTaken>
+        <grade>5</grade>
+      </exams>
+      <exams>
+        <name>C# DB Development</name>
+        <dateTaken>2018-05-31T00:00:00</dateTaken>
+        <grade>6</grade>
+      </exams>
+    </Exams>
+  </student>
+</Books>
