@@ -1,0 +1,1260 @@
+{
+  "userCount": 55,
+  "UserDetails": [
+    {
+      "firstName": "Benjamin",
+      "lastName": "Henry",
+      "age": 63,
+      "SoldProducts": [
+        {
+          "count": 9,
+          "ProductsList": [
+            {
+              "name": "BareMinerals Golden Tan matte",
+              "Price": 110.93
+            },
+            {
+              "name": "Buprenorphine hydrochloride and naloxone hydrochloride dihydrate",
+              "Price": 293.33
+            },
+            {
+              "name": "Propranolol Hydrochloride",
+              "Price": 546.95
+            },
+            {
+              "name": "ESIKA",
+              "Price": 879.37
+            },
+            {
+              "name": "CARBIDOPA AND LEVODOPA",
+              "Price": 441.64
+            },
+            {
+              "name": "Aspirin",
+              "Price": 925.45
+            },
+            {
+              "name": "Hydralazine Hydrochloride",
+              "Price": 1309.72
+            },
+            {
+              "name": "Glipizide and Metformin Hydrochloride",
+              "Price": 953.60
+            },
+            {
+              "name": "Agaricus Equisetum Special Order",
+              "Price": 585.93
+            }
+          ]
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        },
+        {
+          "count": 9,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Martinez",
+      "age": 28,
+      "SoldProducts": [
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Amanda",
+      "lastName": "Frazier",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 8,
+          "ProductsList": [
+            {
+              "name": "leader pain reliever",
+              "Price": 1179.79
+            },
+            {
+              "name": "DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER",
+              "Price": 555.12
+            },
+            {
+              "name": "Peter Island Continous sunscreen kids",
+              "Price": 471.30
+            },
+            {
+              "name": "smart sense nighttime cold and flu relief",
+              "Price": 1101.77
+            },
+            {
+              "name": "Care One Hemorrhoidal",
+              "Price": 932.18
+            },
+            {
+              "name": "Fair Foundation SPF 15",
+              "Price": 1394.24
+            },
+            {
+              "name": "Naproxen",
+              "Price": 807.22
+            },
+            {
+              "name": "Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius",
+              "Price": 135.82
+            }
+          ]
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        },
+        {
+          "count": 8,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Gary",
+      "lastName": "Stevens",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 7,
+          "ProductsList": []
+        },
+        {
+          "count": 7,
+          "ProductsList": []
+        },
+        {
+          "count": 7,
+          "ProductsList": []
+        },
+        {
+          "count": 7,
+          "ProductsList": []
+        },
+        {
+          "count": 7,
+          "ProductsList": []
+        },
+        {
+          "count": 7,
+          "ProductsList": []
+        },
+        {
+          "count": 7,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Harrison",
+      "age": 18,
+      "SoldProducts": [
+        {
+          "count": 6,
+          "ProductsList": []
+        },
+        {
+          "count": 6,
+          "ProductsList": []
+        },
+        {
+          "count": 6,
+          "ProductsList": []
+        },
+        {
+          "count": 6,
+          "ProductsList": []
+        },
+        {
+          "count": 6,
+          "ProductsList": []
+        },
+        {
+          "count": 6,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Mitchell",
+      "age": 41,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Bennett",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Brenda",
+      "lastName": "Howell",
+      "age": 75,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Arthur",
+      "lastName": "Reynolds",
+      "age": 32,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Bonnie",
+      "lastName": "Fox",
+      "age": 18,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Mitchell",
+      "age": 59,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Day",
+      "age": 33,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Christina",
+      "lastName": "Patterson",
+      "age": 63,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Christine",
+      "lastName": "Gomez",
+      "age": 28,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Kathy",
+      "lastName": "Gilbert",
+      "age": 51,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Betty",
+      "lastName": "Ward",
+      "age": 70,
+      "SoldProducts": [
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        },
+        {
+          "count": 5,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Parker",
+      "age": 56,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Riley",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Jacqueline",
+      "lastName": "Perez",
+      "age": 25,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Harvey",
+      "age": 46,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Fred",
+      "lastName": "Allen",
+      "age": 57,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Clarence",
+      "lastName": "Fowler",
+      "age": 50,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Clark",
+      "age": 41,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Harris",
+      "age": 43,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Wanda",
+      "lastName": "Harris",
+      "age": 26,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Fox",
+      "age": 68,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Moreno",
+      "age": 37,
+      "SoldProducts": [
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        },
+        {
+          "count": 4,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Riley",
+      "age": 74,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Baker",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Daniels",
+      "age": 59,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Schmidt",
+      "age": 70,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Brandon",
+      "lastName": "Fuller",
+      "age": 30,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Cunningham",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Thompson",
+      "age": 46,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Snyder",
+      "age": 40,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Paula",
+      "lastName": "Hill",
+      "age": 74,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Joshua",
+      "lastName": "Murray",
+      "age": 41,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Fred",
+      "lastName": "Barnes",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        },
+        {
+          "count": 3,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Eugene",
+      "lastName": "Stewart",
+      "age": 65,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Parker",
+      "age": 68,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Woods",
+      "age": 20,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Parker",
+      "age": 41,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Marie",
+      "lastName": "Williamson",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Cooper",
+      "age": 72,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Lawson",
+      "age": 19,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Betty",
+      "lastName": "Lawson",
+      "age": 38,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Doris",
+      "lastName": "Cook",
+      "age": 61,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Gloria",
+      "lastName": "Alexander",
+      "age": 61,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Patrick",
+      "lastName": "King",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Johnson",
+      "age": 24,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Ann",
+      "lastName": "Stevens",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 2,
+          "ProductsList": []
+        },
+        {
+          "count": 2,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": null,
+      "lastName": "Stewart",
+      "age": 39,
+      "SoldProducts": [
+        {
+          "count": 1,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Rodriguez",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 1,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Jean",
+      "lastName": "Henry",
+      "age": null,
+      "SoldProducts": [
+        {
+          "count": 1,
+          "ProductsList": []
+        }
+      ]
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Fuller",
+      "age": 36,
+      "SoldProducts": [
+        {
+          "count": 1,
+          "ProductsList": []
+        }
+      ]
+    }
+  ]
+}
