@@ -1,0 +1,16 @@
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.App.deps.json
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.App.runtimeconfig.json
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.App.runtimeconfig.dev.json
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.App.dll
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.App.pdb
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.Data.dll
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.Models.dll
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.Data.pdb
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\bin\Debug\netcoreapp2.1\CarDealer.Models.pdb
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.csprojAssemblyReference.cache
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.csproj.CoreCompileInputs.cache
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.AssemblyInfoInputs.cache
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.AssemblyInfo.cs
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.csproj.CopyComplete
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.dll
+C:\Users\DR\source\repos\CarDealerDb\CarDealer.App\obj\Debug\netcoreapp2.1\CarDealer.App.pdb

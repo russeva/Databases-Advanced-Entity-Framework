@@ -1,0 +1,9 @@
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.deps.json
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csprojAssemblyReference.cache
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csproj.CoreCompileInputs.cache
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfoInputs.cache
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfo.cs
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\DR\source\repos\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.pdb
