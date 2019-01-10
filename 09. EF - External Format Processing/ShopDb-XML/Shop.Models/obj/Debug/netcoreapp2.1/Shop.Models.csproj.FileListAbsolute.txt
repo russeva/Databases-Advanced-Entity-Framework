@@ -1,9 +1,0 @@
-C:\Users\DR\source\repos\ShopDb\Shop.Models\bin\Debug\netcoreapp2.1\Shop.Models.deps.json
-C:\Users\DR\source\repos\ShopDb\Shop.Models\bin\Debug\netcoreapp2.1\Shop.Models.dll
-C:\Users\DR\source\repos\ShopDb\Shop.Models\bin\Debug\netcoreapp2.1\Shop.Models.pdb
-C:\Users\DR\source\repos\ShopDb\Shop.Models\obj\Debug\netcoreapp2.1\Shop.Models.csprojAssemblyReference.cache
-C:\Users\DR\source\repos\ShopDb\Shop.Models\obj\Debug\netcoreapp2.1\Shop.Models.csproj.CoreCompileInputs.cache
-C:\Users\DR\source\repos\ShopDb\Shop.Models\obj\Debug\netcoreapp2.1\Shop.Models.AssemblyInfoInputs.cache
-C:\Users\DR\source\repos\ShopDb\Shop.Models\obj\Debug\netcoreapp2.1\Shop.Models.AssemblyInfo.cs
-C:\Users\DR\source\repos\ShopDb\Shop.Models\obj\Debug\netcoreapp2.1\Shop.Models.dll
-C:\Users\DR\source\repos\ShopDb\Shop.Models\obj\Debug\netcoreapp2.1\Shop.Models.pdb

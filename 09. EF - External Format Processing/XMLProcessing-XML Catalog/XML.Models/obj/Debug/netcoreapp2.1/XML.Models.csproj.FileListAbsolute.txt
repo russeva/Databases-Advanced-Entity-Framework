@@ -1,9 +1,0 @@
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\obj\Debug\netcoreapp2.1\XML.Models.csprojAssemblyReference.cache
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\obj\Debug\netcoreapp2.1\XML.Models.csproj.CoreCompileInputs.cache
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\obj\Debug\netcoreapp2.1\XML.Models.AssemblyInfoInputs.cache
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\obj\Debug\netcoreapp2.1\XML.Models.AssemblyInfo.cs
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\bin\Debug\netcoreapp2.1\XML.Models.deps.json
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\bin\Debug\netcoreapp2.1\XML.Models.dll
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\bin\Debug\netcoreapp2.1\XML.Models.pdb
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\obj\Debug\netcoreapp2.1\XML.Models.dll
-C:\Users\DR\source\repos\XMLProcessing-XML Catalog\XML.Models\obj\Debug\netcoreapp2.1\XML.Models.pdb
