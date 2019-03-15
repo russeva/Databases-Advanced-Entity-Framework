@@ -1,0 +1,10 @@
+Record Michael Jordan successfully imported.
+Error message: Invalid data.
+Record Edmond Halley successfully imported.
+Record Niels Bohr successfully imported.
+Record Werner Heisenberg successfully imported.
+Error message: Invalid data.
+Error message: Invalid data.
+Record Jennifer Evans successfully imported.
+Record Jennifer WithoutPhoneNumber successfully imported.
+Error message: Invalid data.

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190207191516_initial.cs" />
+    <Compile Remove="Migrations\20190207191758_initial.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="App\Results\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="2.2.1" />
+  </ItemGroup>
+
+</Project>
